@@ -21,7 +21,7 @@ In this Readme, I'll take you on a journey through DEX Coin 1, our mission, and 
     - Royalty Rewards: Earn royalties through token ownership.
     - Flexible Minting: Mint new tokens to keep our ecosystem thriving.
     - Inflation Control: We maintain a cap on inflation to protect your investments.
-    - USDC Integration: Buy and sell DEX Coins with USDC, a stable and widely accepted cryptocurrency.
+    - USDC Integration: Buy and sell DEX Coins with USDC, a stable a widely accepted cryptocurrency.
     
 3. **Getting Started**
     - Token Symbol: DEX1
